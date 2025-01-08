@@ -10,10 +10,7 @@ import java.time.Duration;
 
 public class BaseClass {
 
-    public WebDriver driver;
-    public String baseUrl = "https://dev-utility.sstglobal.net/";
-    public String username = "ashwini-gis@sstus.net";  // Your username
-    public String password = "A@sh123$";  // Your password
+  
 
     // Setup method to initialize WebDriver
     @BeforeClass
